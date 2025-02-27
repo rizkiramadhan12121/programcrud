@@ -1,0 +1,11 @@
+C:\Users\Rizki\source\repos\ProgramCRUD\bin\Debug\ProgramCRUD.exe.config
+C:\Users\Rizki\source\repos\ProgramCRUD\bin\Debug\ProgramCRUD.exe
+C:\Users\Rizki\source\repos\ProgramCRUD\bin\Debug\ProgramCRUD.pdb
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.csproj.AssemblyReference.cache
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.Form1.resources
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.Properties.Resources.resources
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.csproj.GenerateResource.cache
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.exe
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.pdb
+C:\Users\Rizki\source\repos\ProgramCRUD\obj\Debug\ProgramCRUD.Form2.resources
